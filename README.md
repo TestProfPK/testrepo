@@ -1,2 +1,2 @@
 # testrepo
-Promety изменил README
+Promety изменил README в новой ветке
